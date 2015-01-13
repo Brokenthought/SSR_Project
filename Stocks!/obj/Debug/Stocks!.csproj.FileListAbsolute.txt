@@ -1,0 +1,33 @@
+c:\users\nigel\documents\visual studio 2012\Projects\Stocks!\Stocks!\bin\Debug\Stocks!.exe.config
+c:\users\nigel\documents\visual studio 2012\Projects\Stocks!\Stocks!\bin\Debug\Stocks!.exe
+c:\users\nigel\documents\visual studio 2012\Projects\Stocks!\Stocks!\bin\Debug\Stocks!.pdb
+c:\users\nigel\documents\visual studio 2012\Projects\Stocks!\Stocks!\obj\Debug\Stocks!.csprojResolveAssemblyReference.cache
+c:\users\nigel\documents\visual studio 2012\Projects\Stocks!\Stocks!\obj\Debug\Stocks_.Form1.resources
+c:\users\nigel\documents\visual studio 2012\Projects\Stocks!\Stocks!\obj\Debug\Stocks_.Properties.Resources.resources
+c:\users\nigel\documents\visual studio 2012\Projects\Stocks!\Stocks!\obj\Debug\Stocks!.csproj.GenerateResource.Cache
+c:\users\nigel\documents\visual studio 2012\Projects\Stocks!\Stocks!\obj\Debug\Stocks!.exe
+c:\users\nigel\documents\visual studio 2012\Projects\Stocks!\Stocks!\obj\Debug\Stocks!.pdb
+C:\Users\Mind Taker!\Desktop\Stocks!\Stocks!\bin\Debug\Stocks!.exe.config
+C:\Users\Mind Taker!\Desktop\Stocks!\Stocks!\obj\Debug\Stocks!.exe
+C:\Users\Mind Taker!\Desktop\Stocks!\Stocks!\obj\Debug\Stocks!.pdb
+C:\Users\Mind Taker!\Desktop\Stocks!\Stocks!\bin\Debug\Stocks!.exe
+C:\Users\Mind Taker!\Desktop\Stocks!\Stocks!\bin\Debug\Stocks!.pdb
+C:\Users\Mind Taker!\Desktop\Stocks!\Stocks!\obj\Debug\Stocks!.csprojResolveAssemblyReference.cache
+C:\Users\Mind Taker!\Desktop\Stocks!\Stocks!\obj\Debug\Stocks_.Form1.resources
+C:\Users\Mind Taker!\Desktop\Stocks!\Stocks!\obj\Debug\Stocks_.Properties.Resources.resources
+C:\Users\Mind Taker!\Desktop\Stocks!\Stocks!\obj\Debug\Stocks!.csproj.GenerateResource.Cache
+C:\Users\Mind Taker!\Desktop\Stocks!\Stocks!\bin\Debug\ZedGraph.dll
+C:\Users\Mind Taker!\Desktop\Stocks!\Stocks!\bin\Debug\ZedGraph.xml
+C:\Users\Mind Taker!\Desktop\Stocks!\Stocks!\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Mind Taker!\Desktop\Stocks!\Stocks!\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Mind Taker!\Desktop\Stocks!\Stocks!\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Mind Taker!\Desktop\Stocks!\Stocks!\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Mind Taker!\Desktop\Stocks!\Stocks!\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Mind Taker!\Desktop\Stocks!\Stocks!\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Mind Taker!\Desktop\Stocks!\Stocks!\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Mind Taker!\Desktop\Stocks!\Stocks!\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Mind Taker!\Desktop\Stocks!\Stocks!\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Mind Taker!\Desktop\Stocks!\Stocks!\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Mind Taker!\Desktop\Stocks!\Stocks!\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Mind Taker!\Desktop\Stocks!\Stocks!\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Mind Taker!\Desktop\Stocks!\Stocks!\bin\Debug\zh-tw\ZedGraph.resources.dll
